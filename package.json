@@ -10,5 +10,8 @@
     "create-elm-app": "^5.22.0",
     "elm": "^0.19.1-5",
     "prettier": "^2.6.2"
+  },
+  "dependencies": {
+    "elm-canvas": "^2.2.4"
   }
 }
